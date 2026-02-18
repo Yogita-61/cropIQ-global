@@ -1,0 +1,8 @@
+{
+  "name": "Copy of CropIQ3.0",
+  "description": "A multimodal AI-powered agriculture advisory platform for yield prediction, crop health analysis, and conversational farming assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
